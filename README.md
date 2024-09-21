@@ -4,11 +4,8 @@
 [![Github All Releases](https://img.shields.io/github/downloads/nenes25/eicaptcha/total.svg)]()
 [![Github issues](https://img.shields.io/github/issues-raw/nenes25/eicaptcha)]()
 
-# eicaptcha
-Module EiCaptcha for prestashop 1.7 +
-
-The module is also available for prestashop version 1.6.x see here : https://github.com/nenes25/eicaptcha/tree/master  
-or download 0.4.x releases ( This version remains available but support and evolutions are stopped )   
+# prestacaptcha
+Module PrestaCaptcha for prestashop 1.7 +
 
 This module display Google recaptcha on the following forms :
  - contact form
